@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Anton;
+  src:url(../tipografias/Anton.ttf);
+}
+@font-face {
+  font-family: Raleway;
+  src:url(../tipografias/Raleway-Thin.ttf);
+}
+@font-face {
+  font-family: Muli;
+  src:url(../tipografias/Muli-Regular.ttf);
+}
+@font-face {
+  font-family: fjalla;
+  src:url(../tipografias/FjallaOne-Regular.otf);
+}
